@@ -1,0 +1,4 @@
+print("Q3. ")
+p1 = {"name":"kim", "money": 50000}
+p2 = {"name":"park", "money": 30000}
+print("%s는 누구보다 얼마 있습니다."%(p1.get("name")))
